@@ -1,0 +1,16 @@
+.row{
+    height: 200px;
+    background-color: #797979;
+}
+
+.col-3{
+    background-color: #ffc266;
+    padding: 20px;
+    border: solid 2px black;
+}
+
+.col-1{
+    background-color: #a31e1e;
+    border: solid 1px #000;
+    color: #fff;
+}
